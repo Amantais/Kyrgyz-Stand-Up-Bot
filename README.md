@@ -13,4 +13,4 @@ Get a bot token from [@BotFather](http://telegram.me/BotFather) and replace BOT_
 ***
 
 At the command to start:
-<br>![Image alt](https://github)
+<br>![Image alt](https://github.com/Amantais/Kyrgyz-Stand-Up-Bot/blob/master/media/Screenshot%20from%202021-03-25%2000-57-36.png)</br>
